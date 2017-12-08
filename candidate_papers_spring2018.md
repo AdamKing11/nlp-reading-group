@@ -29,3 +29,13 @@ blog: http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.
 
 ### The Lifted Matrix-Space Model for Semantic Composition
 https://arxiv.org/abs/1711.03602
+
+
+# Proposed by Ada:
+### Poincaré Embeddings for Learning Hierarchical Representations
+(New means for embeddings which are _supposed_ to capture structure)
+https://arxiv.org/abs/1705.08039
+
+###  emoji2vec: Learning Emoji Representations from their Description
+(Using emojis as soft labels for Tweets)
+https://arxiv.org/abs/1609.08359
