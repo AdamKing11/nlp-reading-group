@@ -50,3 +50,7 @@ https://arxiv.org/abs/1705.07874
 
 ### The Lifted Matrix-Space Model for Semantic Composition
 https://arxiv.org/abs/1711.03602
+
+# Proposed by Adam
+### emoji2vec: Learning Emoji Representations from their Description 
+https://arxiv.org/abs/1609.08359
